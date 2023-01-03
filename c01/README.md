@@ -37,11 +37,7 @@ void ft_ft(int *nbr)
 ```
 
 <p align="right">
-<<<<<<< HEAD
  <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
-=======
- <a href="https://github.com/Cerberus2290/C01/blob/main/README.md#-beware-">back to top</a>
->>>>>>> 74d14168df7c295e9427d7e7e1bf4c736f7f3827
 </p>
 
 # <a name="ex01">Exercise 01 : ft_ultimate_ft</a>
