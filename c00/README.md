@@ -44,7 +44,7 @@ write(1, &c, 1);
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex01">Exercise 01 : ft_print_alphabet</a>
@@ -65,7 +65,7 @@ void ft_print_alphabet(void)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex02">Exercise 02 : ft_print_reverse_alphabet</a>
@@ -86,7 +86,7 @@ void ft_print_reverse_alphabet(void)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex03">Exercise 03 : ft_print_numbers</a>
@@ -107,7 +107,7 @@ void ft_print_numbers(void)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex04">Exercise 04 : ft_is_negative</a>
@@ -128,7 +128,7 @@ void ft_is_negative(int n)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex05">Exercise 05 : ft_print_comb</a>
@@ -160,7 +160,7 @@ void ft_print_comb(void)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex06">Exercise 06 : ft_print_comb2</a>
@@ -188,7 +188,7 @@ void ft_print_comb2(void)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex07">Exercise 07 : ft_putnbr</a>
@@ -212,7 +212,7 @@ void ft_putnbr(int nb)
   * ft_putnbr(42) displays "42"
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>
 
 # <a name="ex08">Exercise 08 : ft_print_combn</a>
@@ -242,5 +242,5 @@ void ft_print_combn(int n)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
 </p>

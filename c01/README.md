@@ -37,7 +37,7 @@ void ft_ft(int *nbr)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex01">Exercise 01 : ft_ultimate_ft</a>
@@ -58,7 +58,7 @@ void ft_ultimate_ft(int *********nbr)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex02">Exercise 02 : ft_swap</a>
@@ -79,7 +79,7 @@ ft_swap(int *a, int *b)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex03">Exercise 03 : ft_div_mod</a>
@@ -100,7 +100,7 @@ void ft_div_mod(int a, int b, int *div, int *mod)
 * This function divides parameters **a** by **b** and stores the result in the int pointed by **div**. It also stores the remainder of the division of **a** by **b** in the int pointed by **mod**.
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex04">Exercise 04 : ft_ultimate_div_mod</a>
@@ -121,7 +121,7 @@ void ft_ultimate_div_mod(int *a, int *b)
 * This function divides parameters **a** by **b**. The result of this division is stored in the int pointed by **a**. The remainder of the division is stored in the int pointed by **b**.
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex05">Exercise 05 : ft_putstr</a>
@@ -142,7 +142,7 @@ void ft_putstr(char *str)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex06">Exercise 06 : ft_strlen</a>
@@ -163,7 +163,7 @@ void ft_strlen(char *str)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex07">Exercise 07 : ft_rev_int_tab</a>
@@ -186,7 +186,7 @@ void ft_rev_int_tab(int *tab, int size)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>
 
 # <a name="ex08">Exercise 08 : ft_sort_int_tab</a>
@@ -209,5 +209,5 @@ void ft_sort_int_tab(int *tab, int size)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/C00/blob/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
 </p>

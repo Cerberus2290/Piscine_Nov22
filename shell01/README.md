@@ -41,7 +41,7 @@ daemon,bin$>
 ### 💡 [man](https://man7.org/linux/man-pages/man1/id.1.html) **id** 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_01#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell01#-beware-">back to top</a>
 </p>
 
 # <a name="ex02">Exercise 02 : find_sh</a>
@@ -67,7 +67,7 @@ $>
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_01#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell01#-beware-">back to top</a>
 </p>
 
 # <a name="ex03">Exercise 03 : count_files</a>
@@ -90,7 +90,7 @@ $>
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_01#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell01#-beware-">back to top</a>
 </p>
 
 # <a name="ex04">Exercise 04 : MAC</a>
@@ -107,5 +107,5 @@ $>
 ### 💡 [man](https://man7.org/linux/man-pages/man8/ifconfig.8.html) **ifconfig** 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_01#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell01#-beware-">back to top</a>
 </p>

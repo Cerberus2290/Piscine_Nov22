@@ -38,7 +38,7 @@ Z
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex01">Exercise 01 : testShell00</a>
@@ -66,7 +66,7 @@ total 1
 ### ⚠️ A year will be accepted instead of the time, on the timestamp of the file. ⚠️
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex02">Exercise 02 : Oh yeah, mooore...</a>
@@ -100,7 +100,7 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 ### ⚠️ A year will be accepted instead of the time, on the timestamp of the file. ⚠️
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex03">Exercise 03 : SSH me!</a>
@@ -120,7 +120,7 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 ### 💡 Make sure you understand the difference between the public key and the private key. 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex04">Exercise 04 : midLS</a>
@@ -138,7 +138,7 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 ### 💡 RTFM!! 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex05">Exercise 05 : GiT commit?</a>
@@ -167,7 +167,7 @@ e94d0b448c03ec633f16d84d63beaef9ae7e7be8$
 ### 💡 RTFM!! 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex06">Exercise 06 : gitignore</a>
@@ -194,7 +194,7 @@ mywork.c~$
 ### 💡 RTFM!! 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex07">Exercise 07 : diff</a>
@@ -231,7 +231,7 @@ $
 ### 💡 [man](https://man7.org/linux/man-pages/man1/patch.1.html) **patch** 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex08">Exercise 08 : clean</a>
@@ -250,7 +250,7 @@ $
 ### 💡 [man](https://man7.org/linux/man-pages/man1/find.1.html) **find** 💡
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
 
 # <a name="ex09">Exercise 09 : Illusions, not tricks, Michael...</a>
@@ -267,5 +267,5 @@ $
 ### 💡 [man](https://man7.org/linux/man-pages/man1/file.1.html) **file**
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/shell00#-beware-">back to top</a>
 </p>
