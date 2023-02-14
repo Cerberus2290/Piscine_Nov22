@@ -40,6 +40,91 @@ char    *ft_strcpy(char *dest, char *src)
 `````
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c01#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
 </p>
 
+# <a name="ex01">Exercise 01 : ft_strncpy</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 01 |
+| ----- | ----- |
+| | ft_strncpy |
+| Turn-in directory: | ex01/ |
+| Files to turn in: | ft_strncpy.c |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strncpy (man strncpy).
+* Here’s how it should be prototyped :
+
+````C
+char	*ft_strncpy(char *dest, char *src, unsigned int n)
+`````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
+</p>
+
+# <a name="ex02">Exercise 02 : ft_str_is_alpha</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 02 |
+| ----- | ----- |
+| | ft_str_is_alpha |
+| Turn-in directory: | ex02/ |
+| Files to turn in: | ft_str_is_alpha.c |
+| Allowed functions: | None |
+
+* Create a function that returns 1 if the string given as a parameter contains only alphabetical characters, and 0 if it contains any other character.
+* Here’s how it should be prototyped :
+
+```C
+int	ft_str_is_alpha(char *str)
+````
+
+* It should return **1** if str is empty.
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
+</p>
+
+# <a name="ex03">Exercise 03 : ft_str_is_numeric</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 03 |
+| ----- | ----- |
+| | ft_str_is_numeric |
+| Turn-in directory: | ex03/ |
+| Files to turn in: | ft_str_is_numeric.c |
+| Allowed functions: | None |
+
+* Create a function that returns 1 if the string given as a parameter contains only digits, and 0 if it contains any other character.
+* Here’s how it should be prototyped :
+
+```C
+int	ft_str_is_numeric(char *str)
+````
+
+* It should return **1** if str is empty.
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
+</p>
+
+# <a name="ex04">Exercise 04 : ft_str_is_lowercase</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 04 |
+| ----- | ----- |
+| | ft_str_is_lowercase |
+| Turn-in directory: | ex04/ |
+| Files to turn in: | ft_str_is_lowercase.c |
+| Allowed functions: | None |
+
+* Create a function that returns 1 if the string given as a parameter contains only lowercase alphabetical characters, and 0 if it contains any other character.
+* Here’s how it should be prototyped :
+
+```C
+int	ft_str_is_lowercase(char *str)
+````
+
+* It should return 1 if str is empty.
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
+</p>
