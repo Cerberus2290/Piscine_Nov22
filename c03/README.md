@@ -55,3 +55,83 @@ int	ft_strncmp(char *s1, char *s2, unsigned int n)
 <p align="right">
  <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
 </p>
+
+# <a name="ex02">Exercise 02 : ft_strcat</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 02 |
+| ----- | ----- |
+| | ft_strcat |
+| Turn-in directory: | ex02/ |
+| Files to turn in: | ft_strcat.c |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strcat (man strcat).
+* Here’s how it should be prototyped :
+
+````C
+char	*ft_strcat(char *dest, char *src)
+````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
+</p>
+
+# <a name="ex03">Exercise 03 : ft_strncat</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 03 |
+| ----- | ----- |
+| | ft_strncat |
+| Turn-in directory: | ex03/ |
+| Files to turn in: | ft_strncat.c |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strncat (man strncat).
+* Here’s how it should be prototyped :
+
+````C
+char	*ft_strncat(char *dest, char *src, unsigned int nb)
+````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
+</p>
+
+# <a name="ex04">Exercise 04 : ft_strstr</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 04 |
+| ----- | ----- |
+| | ft_strstr |
+| Turn-in directory: | ex04/ |
+| Files to turn in: | ft_strstr.c |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strstr (man strstr).
+* Here’s how it should be prototyped :
+
+````C
+char	*ft_strstr(char *str, char *to_find)
+````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
+</p>
+
+# <a name="ex05">Exercise 05 : ft_strlcat</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 05 |
+| ----- | ----- |
+| | ft_strlcat |
+| Turn-in directory: | ex05/ |
+| Files to turn in: | ft_strlcat |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strlcat (man strlcat).
+* Here’s how it should be prototyped :
+
+````C
+unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
+````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
+</p>
