@@ -3,7 +3,7 @@
 ## If you are a 42 Student, do not copy/paste this project, it will be considered cheating and you will be grated -42.
 
 # 42 Wolfsburg Piscine 
-## C02
+## C03
 
 The first coding language you learn: C
 
@@ -33,5 +33,25 @@ int	ft_strcmp(char *s1, char *s2)
 ````
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c02#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
+</p>
+
+# <a name="ex01">Exercise 01 : ft_stncmp</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 01 |
+| ----- | ----- |
+| | ft_strncmp |
+| Turn-in directory: | ex01/ |
+| Files to turn in: | ft_strncmp.c |
+| Allowed functions: | None |
+
+* Reproduce the behavior of the function strncmp (man strncmp).
+* Here’s how it should be prototyped :
+
+````C
+int	ft_strncmp(char *s1, char *s2, unsigned int n)
+````
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c03#-beware-">back to top</a>
 </p>
