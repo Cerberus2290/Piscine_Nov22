@@ -38,5 +38,5 @@ int ft_iterative_factorial(int nb)
 ```
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c04#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c05#-beware-">back to top</a>
 </p>
