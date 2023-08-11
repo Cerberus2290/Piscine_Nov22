@@ -1,9 +1,13 @@
+[![tstrassb's 42 stats](https://badge42.vercel.app/api/v2/clk7xyddm001108l1dlt4bjx7/stats?cursusId=9&coalitionId=270)](https://github.com/JaeSeoKim/badge42)
+
+# C01 : Final Score [![tstrassb's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clk7xyddm001108l1dlt4bjx7/project/2879531)](https://github.com/JaeSeoKim/badge42)
+
 <h1 align="center">✋ BEWARE ✋</h1>
 
 ## If you are a 42 Student, do not copy/paste this project, it will be considered cheating and you will be grated -42.
 
 # 42 Wolfsburg Piscine 
-## C00
+## C01
 
 The first coding language you learn: C
 
