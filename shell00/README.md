@@ -1,6 +1,6 @@
 [![tstrassb's 42 stats](https://badge42.vercel.app/api/v2/clk7xyddm001108l1dlt4bjx7/stats?cursusId=9&coalitionId=270)](https://github.com/JaeSeoKim/badge42)
 
-# Shell00 Fianl Score [![tstrassb's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clk7xyddm001108l1dlt4bjx7/project/2870028)](https://github.com/JaeSeoKim/badge42) 
+# Shell00 Final Score [![tstrassb's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clk7xyddm001108l1dlt4bjx7/project/2870028)](https://github.com/JaeSeoKim/badge42) 
 
 <h1 align="center">✋ BEWARE ✋</h1>
 
